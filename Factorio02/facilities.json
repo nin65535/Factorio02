@@ -1,0 +1,12 @@
+{
+  "IronPlate": [ "IronPlate" ],
+  "Gear": [ "Gear", "IronPlate" ],
+  "CopperPlate": [ "CopperPlate" ],
+  "A-Pack": [ "CopperPlate", "Gear", "A-Pack" ],
+  "T-Belt": [ "T-Belt", "Gear", "IronPlate" ],
+  "CopperCable": [ "CopperCable", "CopperPlate" ],
+  "E-Circuit": [ "E-Circuit", "IronPlate", "CopperCable" ],
+  "Inserter": [ "Inserter", "E-Circuit", "Gear", "IronPlate" ],
+  "L-Pack": [ "L-Pack", "Inserter", "T-Belt" ],
+  "Lab": [ "A-Pack", "L-Pack" ]
+}

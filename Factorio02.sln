@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Factorio02", "Factorio02\Factorio02.pyproj", "{25B15EFC-6032-4E5D-9FCE-A98ECC84CF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25B15EFC-6032-4E5D-9FCE-A98ECC84CF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B15EFC-6032-4E5D-9FCE-A98ECC84CF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6982FA8-1E34-4E02-AAD8-5595FF6BBF9C}
+	EndGlobalSection
+EndGlobal

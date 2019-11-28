@@ -1,0 +1,17 @@
+{
+  "size": [ 5, 5 ],
+  "fix": {
+    "1": "IronPlate",
+    "3": "CopperPlate"
+  },
+  "free": {
+    "Gear": 1,
+    "A-Pack": 1,
+    "CopperCable": 3,
+    "E-Circuit": 2,
+    "T-Belt": 1,
+    "Inserter": 1,
+    "L-Pack": 1,
+    "Lab": 4
+  }
+}
